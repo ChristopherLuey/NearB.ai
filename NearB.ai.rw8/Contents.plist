@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string>RapidWeaver</string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Minimum Application Version</key>
+				<string>8.1</string>
+				<key>PublishingManifests</key>
+				<dict/>
+				<key>RWFileReferences</key>
+				<dict>
+					<key>2B2C1E5D-918C-4EB9-9AC7-E45CDC41476C</key>
+					<dict>
+						<key>fileName</key>
+						<string>logo1.png</string>
+						<key>identifier</key>
+						<string>2B2C1E5D-918C-4EB9-9AC7-E45CDC41476C</string>
+						<key>lastResolvablePath</key>
+						<string>/var/folders/1l/_wr4qg_93qv67_hz0__20pyc0000gn/T/com.realmacsoftware.rapidweaver8/com.realmacsoftware.rapidweaver8-5690/ALAEKv/logo1.png</string>
+						<key>storedInsideDocument</key>
+						<true/>
+					</dict>
+				</dict>
+				<key>Site Resources</key>
+				<data>
+				YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVj
+				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEwcIERIaHSQo
+				Ozw9PkJFSU1OUlZVJG51bGzTCQoLDA4QV05TLmtleXNa
+				TlMub2JqZWN0c1YkY2xhc3OhDYACoQ+AA4ASVG5vZGXU
+				ExQVCxYXGBlUTmFtZVVpdGVtc1hjaGlsZHJlboAAgAaA
+				BIAR0goLGxyggAXSHh8gIVokY2xhc3NuYW1lWCRjbGFz
+				c2VzXk5TTXV0YWJsZUFycmF5oyAiI1dOU0FycmF5WE5T
+				T2JqZWN00goLJRyhJoAHgAXaKSoLKywtEy4vMDEyMxYW
+				Njc4OTpeUmVtb3RlUmVzb3VyY2VbT3JpZ2luYWxVUkxc
+				UHVibGlzaGVkVVJMXVB1Ymxpc2hlZERhdGVfEA9DaGFu
+				Z2VkU3RhdHVzZXNaSWRlbnRpZmllcllUaW1lU3RhbXBZ
+				RmlsZVRva2VuCIAPgBCAAIAAgA2ACYAIgAuACl8QJDVE
+				NzlDNDFCLUY0NDMtNEVBQi04Nzg4LTcxQUREMzRFN0My
+				MVlsb2dvMS5wbmdfECQyQjJDMUU1RC05MThDLTRFQjkt
+				OUFDNy1FNDVDREM0MTQ3NkPSPwtAQVdOUy50aW1lI0HB
+				Y1RVSy3FgAzSHh9DRFZOU0RhdGWiQyPTCQoLRkdIoKCA
+				DtIeH0pLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKTCNc
+				TlNEaWN0aW9uYXJ5XxAoL1VzZXJzL2NocmlzdG9waGVy
+				bHVleS9EZXNrdG9wL2xvZ28xLnBuZ9IeH09QXlJXU2l0
+				ZVJlc291cmNlolEjXlJXU2l0ZVJlc291cmNl0h4fU1Rc
+				UldTaXRlRm9sZGVyolUjXFJXU2l0ZUZvbGRlctIeH0xX
+				okwjXxAPTlNLZXllZEFyY2hpdmVy0VpbVHJvb3SAAQAI
+				ABEAGgAjAC0AMgA3AE0AUwBaAGIAbQB0AHYAeAB6AHwA
+				fgCDAIwAkQCXAKAAogCkAKYAqACtAK4AsAC1AMAAyQDY
+				ANwA5ADtAPIA9AD2APgBDQEcASgBNQFDAVUBYAFqAXQB
+				dQF3AXkBewF9AX8BgQGDAYUBhwGuAbgB3wHkAewB9QH3
+				AfwCAwIGAg0CDgIPAhECFgIsAjACPQJoAm0CfAJ/Ao4C
+				kwKgAqMCsAK1ArgCygLNAtIAAAAAAAACAQAAAAAAAABc
+				AAAAAAAAAAAAAAAAAAAC1A==
+				</data>
+				<key>SiteAttributes</key>
+				<dict>
+					<key>AddCopyrightMailTo</key>
+					<false/>
+					<key>AnonymiseThirdPartyRequests</key>
+					<false/>
+					<key>BaseURL</key>
+					<string>https://nearb.ai/</string>
+					<key>ConsolidateCSSFiles</key>
+					<true/>
+					<key>ConsolidateCommonFilesMode</key>
+					<integer>0</integer>
+					<key>ContactText</key>
+					<string>Contact Me</string>
+					<key>CopyrightText</key>
+					<string>© 2019 Christopher Luey</string>
+					<key>CopyrightTextUsed</key>
+					<true/>
+					<key>CruftlessLinksEnabled</key>
+					<true/>
+					<key>DirectoryIndexFilenames</key>
+					<array>
+						<string>index.php</string>
+						<string>index.html</string>
+						<string>index.htm</string>
+					</array>
+					<key>EmailAddress</key>
+					<string></string>
+					<key>ObfuscateEmailAddress</key>
+					<true/>
+					<key>PrivacyMessage</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGCAlYJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oKEHVSRudWxsXxAPTlNLZXllZEFyY2hpdmVy
+					0QoLVHJvb3SAAAgRGiMtMjc5P1FUWQAAAAAA
+					AAEBAAAAAAAAAAwAAAAAAAAAAAAAAAAAAABb
+					</data>
+					<key>PrivacyMessageDismissButtonTitle</key>
+					<string>Dismiss</string>
+					<key>PublishingDestinations</key>
+					<array/>
+					<key>PublishingSettingsConfigured</key>
+					<false/>
+					<key>RememberPrivacyMessageDismissed</key>
+					<false/>
+					<key>SettingsPlugins</key>
+					<array/>
+					<key>ShowBreadcrumbTrail</key>
+					<false/>
+					<key>ShowPrivacyMessage</key>
+					<false/>
+					<key>SloganText</key>
+					<string>Finding a Neighborhood Simplified</string>
+					<key>SloganUsed</key>
+					<true/>
+					<key>ThemeName</key>
+					<string>Offroad</string>
+					<key>TitleText</key>
+					<string>NearB.ai</string>
+					<key>TitleTextUsed</key>
+					<true/>
+					<key>UniqueBackupName</key>
+					<string>4D11CDBF-4040-4861-A160-DBDC9597702F_rwbackup</string>
+					<key>WantsXMLSiteMap</key>
+					<true/>
+					<key>autoStartWebServer</key>
+					<false/>
+					<key>globalBody</key>
+					<string></string>
+					<key>globalCSS</key>
+					<string>    
+      #map {
+        height: 92%;
+        position: relative;
+        top: 0.5%; 
+
+      }
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #description {
+        font-family: Roboto;
+        font-size: 100px;
+        font-weight: 300;
+      }
+
+      #infowindow-content .title {
+        font-weight: bold;
+      }
+
+      #infowindow-content {
+        display: none;
+      }
+
+      #map #infowindow-content {
+        display: inline;
+      }
+
+      .pac-card {
+        margin: 10px 10px 0 0;
+        border-radius: 2px 0 0 2px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        outline: none;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        background-color: #fff;
+        font-family: Roboto;
+      }
+
+      #pac-container {
+        padding-bottom: 12px;
+        margin-right: 12px;
+      }
+
+      .pac-controls {
+        display: inline-block;
+        padding: 5px 11px;
+      }
+
+      .pac-controls label {
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 300;
+      }
+
+      #pac-input {
+        background-color: #fff;
+        font-family: Roboto;
+        font-size: 25px;
+        border-radius: 15px 15px 15px 15px;
+        font-weight: 300;
+        margin-left: 14%;
+        margin-top: 1%;
+        padding: 0 11px 0 13px;
+        text-overflow: ellipsis;
+        width: 35%;
+      }
+      
+
+      #pac-input:focus {
+        border-color: #4d90fe;
+      }
+
+      #title {
+        color: #fff;
+        background-color: #4d90fe;
+        font-size: 25px;
+        font-weight: 500;
+        padding: 6px 12px;
+      }
+      #target {
+        width: 345px;
+      }
+</string>
+					<key>globalJavascript</key>
+					<string></string>
+					<key>hasChangedGlobalBody</key>
+					<true/>
+					<key>hasChangedGlobalCSS</key>
+					<true/>
+					<key>hasChangedGlobalHeader</key>
+					<false/>
+					<key>hasChangedGlobalJavascript</key>
+					<true/>
+					<key>hasChangedGlobalPrefix</key>
+					<false/>
+					<key>iconPackage</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGHh9YJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oKUHCA0TGlUkbnVsbNIJCgsMWmRpY3Rpb25h
+					cnlWJGNsYXNzgAKABNMODwoQERJXTlMua2V5
+					c1pOUy5vYmplY3RzoKCAA9IUFRYXWiRjbGFz
+					c25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVE
+					aWN0aW9uYXJ5oxYYGVxOU0RpY3Rpb25hcnlY
+					TlNPYmplY3TSFBUbHF5XZWJJY29uUGFja2Fn
+					ZaIdGV5XZWJJY29uUGFja2FnZV8QD05TS2V5
+					ZWRBcmNoaXZlctEgIVRyb290gAEACAARABoA
+					IwAtADIANwA9AEMASABTAFoAXABeAGUAbQB4
+					AHkAegB8AIEAjACVAKsArwC8AMUAygDZANwA
+					6wD9AQABBQAAAAAAAAIBAAAAAAAAACIAAAAA
+					AAAAAAAAAAAAAAEH
+					</data>
+					<key>minifyExtraFiles</key>
+					<true/>
+					<key>useCacheBusting</key>
+					<true/>
+					<key>useDocumentPortability</key>
+					<true/>
+					<key>useSocialTags</key>
+					<false/>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>DefaultPageAttributes</string>
+				<string>Pages</string>
+				<string>Resources</string>
+				<string>SharedPluginData</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Document</string>
+</dict>
+</plist>
