@@ -10,14 +10,14 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>HomePage</key>
-				<string>1-Untitled-Page</string>
+				<string>1-map</string>
 			</dict>
 			<key>Files</key>
 			<array/>
 			<key>Subsandwiches</key>
 			<array>
-				<string>1-Untitled-Page</string>
-				<string>2-mapStyle.css</string>
+				<string>1-map</string>
+				<string>2-mapStyle</string>
 			</array>
 		</dict>
 	</array>

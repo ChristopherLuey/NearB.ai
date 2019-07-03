@@ -10,13 +10,13 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>CreatedDate</key>
-				<date>2019-07-03T02:23:17Z</date>
+				<date>2019-07-03T19:45:52Z</date>
 				<key>ID</key>
-				<string>page0</string>
+				<string>page1</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Theme Default</string>
 				<key>PageTitle</key>
-				<string>Untitled Page</string>
+				<string>mapStyle</string>
 				<key>PluginClassName</key>
 				<string>RWHTMLPlugin</string>
 				<key>PluginMetadata</key>

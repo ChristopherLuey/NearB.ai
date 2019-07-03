@@ -10,15 +10,14 @@
 			<key>Dictionary</key>
 			<dict/>
 			<key>Files</key>
-			<array/>
-			<key>Subsandwiches</key>
 			<array>
-				<string>2B2C1E5D-918C-4EB9-9AC7-E45CDC41476C</string>
-				<string>ADE217AF-2EB9-4267-A367-0584C54AE0BB</string>
+				<string>maps.json</string>
 			</array>
+			<key>Subsandwiches</key>
+			<array/>
 		</dict>
 	</array>
 	<key>Type</key>
-	<string>Resources</string>
+	<string>Resource</string>
 </dict>
 </plist>
